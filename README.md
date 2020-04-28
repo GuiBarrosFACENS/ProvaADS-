@@ -1,6 +1,7 @@
-//Prova ADS - Guilherme Gabriel Barros - ra: 190975
+//Prova ADS - Guilherme Gabriel Barros - ra: 190975 // o import esta bugado! coloca ele p baixo só
 
 package provaads;
+
 import java.util.Scanner;
 
 public class ProvaADS { public static void main(String[] args) throws InterruptedException {
