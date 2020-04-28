@@ -1,4 +1,4 @@
-//Prova ADS - Guilherme Gabriel Barros - ra: 190975 // o import esta bugado! coloca ele p baixo só
+//Prova ADS - Guilherme Gabriel Barros - ra: 190975 
 
 package provaads;
 
